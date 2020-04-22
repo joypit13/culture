@@ -256,7 +256,23 @@ a {
 }
 
 .promo-list-item {
+  position: relative;
+
   margin-bottom: 25px;
+}
+
+.promo-list-item:not(:last-child):after {
+  content: "";
+
+  position: absolute;
+
+  bottom: -15px;
+  left: 135px;
+
+  width: 100px;
+  height: 1px;
+
+  background-color: rgba(0, 0, 0, 0.2);
 }
 
 .promo-list-item h3 {
