@@ -100,7 +100,7 @@ a {
   background-position: top center;
 }
 
-.headline:hover::before {
+.headline-container:hover::before {
   content: "НОВОЕ";
 
   position: absolute;
@@ -119,6 +119,8 @@ a {
 .headline-container {
   padding-top: 150px;
   padding-bottom: 50px;
+  width: 1440px;
+  margin: 0 auto;
 }
 
 .headline-title {
