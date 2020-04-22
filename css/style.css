@@ -20,6 +20,7 @@ a {
   text-decoration: none;
 }
 
+
 .visually-hidden:not(:focus):not(:active) {
   position: absolute;
 
@@ -79,6 +80,10 @@ a {
   line-height: 18px;
   letter-spacing: 2px;
   text-transform: uppercase;
+}
+
+.site-navigation a:hover {
+  color: #ff7931;
 }
 
 .container {
@@ -210,6 +215,10 @@ a {
   margin: 0;
 
   font-size: 23px;
+}
+
+.review-item a:hover h3 {
+  color: #ff7931;
 }
 
 .review-item-text {
@@ -355,6 +364,10 @@ a {
   line-height: 18px;
   letter-spacing: 2px;
   text-transform: uppercase;
+}
+
+.footer-navigation .site-navigation a:hover {
+    color: #ff7931;
 }
 
 .footer-social {
