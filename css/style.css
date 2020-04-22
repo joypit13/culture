@@ -270,7 +270,7 @@ a {
   margin-bottom: 25px;
 }
 
-.promo-list-item:not(:last-child):after {
+.promo-list-item:not(:nth-child(3)):after {
   content: "";
 
   position: absolute;
