@@ -6,7 +6,6 @@ body {
   font-family: 'Roboto', sans-serif;
   font-size: 14px;
   line-height: 21px;
-  font-weight: normal;
   color: #000000;
 
   background-color: #ffffff;
@@ -56,7 +55,6 @@ a {
   margin-bottom: 45px;
 
   font-family: "Playfair Display", serif;
-  font-style: normal;
   font-weight: 900;
   font-size: 35px;
   line-height: 47px;
@@ -158,8 +156,6 @@ a {
   width: 450px;
   margin: auto;
 
-  font-style: normal;
-  font-weight: normal;
   font-size: 14px;
   line-height: 21px;
   text-align: center;
@@ -173,7 +169,6 @@ a {
 
 .reviews-title {
   font-family: 'Roboto', sans-serif;
-  font-style: normal;
   font-weight: bold;
   font-size: 17px;
   line-height: 20px;
@@ -240,7 +235,6 @@ a {
   justify-content: center;
 
   font-family: 'Roboto', sans-serif;
-  font-style: normal;
   font-weight: bold;
   font-size: 17px;
   line-height: 20px;
@@ -313,7 +307,6 @@ a {
   margin-bottom: 30px;
 
   font-family: "Playfair Display", serif;
-  font-style: normal;
   font-weight: 900;
   font-size: 28px;
   line-height: 37px;
