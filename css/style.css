@@ -394,3 +394,7 @@ a {
   height: 47px;
   background-color: #ffffff;
 }
+
+.social-button:hover {
+  background-color: #ff7931;
+}
